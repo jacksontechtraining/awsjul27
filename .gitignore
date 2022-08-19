@@ -1,1 +1,4 @@
 .env
+five.sh
+dummy/
+*.txt
